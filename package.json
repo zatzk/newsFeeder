@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "discord.js": "^13.7.0",
+    "dotenv": "^16.0.1",
+    "node-fetch": "^2.6.7"
+  },
+  "name": "newsfeeder",
+  "version": "1.0.0",
+  "description": "a newsletter bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zatzk/newsFeeder.git"
+  },
+  "keywords": [
+    "news",
+    "bot",
+    "feeder",
+    "discord"
+  ],
+  "author": "zatzk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zatzk/newsFeeder/issues"
+  },
+  "homepage": "https://github.com/zatzk/newsFeeder#readme"
+}
